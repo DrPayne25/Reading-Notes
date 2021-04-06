@@ -18,9 +18,9 @@ I think a growth mindset is a willingness to accept that you always have room to
 This is the [link] (https://playhearthstone.com/en-us) to download just in case you wanna play! 
 
 **One Piece Top 3 (subject to change)**
-1. Doffy
-  - Sanji
-    - Enel
+1.Doffy
+  -2.Sanji
+    -3.Enel
 
 **To Do**
 - [x] eat
