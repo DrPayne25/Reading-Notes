@@ -8,6 +8,7 @@ I think a growth mindset is a willingness to accept that you always have room to
 1. Always continue to search for feedback from peers it never hurts to have someone look over how you do something
 2. Approach obstacles that come up as challenges that will help me succeed in the future
 3. Document the failures and what you did to improve
+
 ~~4. This is a test for strikethrough~~
 
 
