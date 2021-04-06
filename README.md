@@ -1,4 +1,4 @@
-# Markdown An Alex Payne Reading-Notes Original
+# **Markdown:** An Alex Payne Reading-Notes Original
 
 Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as a System Admin but hope to move over to the dev side and then down the road becomeing an SRE would be ideal. In my free time I love to play video games and sleep not always in that order. ~~I also enjoy long walks on the beach and a good bottle of wine!~~ Wrong profile sorry haha. 
 
