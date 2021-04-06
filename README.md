@@ -19,8 +19,8 @@ This is the [link] (https://playhearthstone.com/en-us) to download just in case 
 
 **One Piece Top 3 (subject to change)**
 1. Doffy
-  -2. Enel
-    -3. Sanji
+  - Sanji
+    - Enel
 
 **To Do**
 - [x] eat
