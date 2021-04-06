@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DrPayne25/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# Markdown
+# Markdown An Alex Payne Reading-Notes Original
 
 ## **Growth Mindset**
 
@@ -14,25 +8,6 @@ I think a growth mindset is a willingness to accept that you always have room to
 1. Always continue to search for feedback from peers it never hurts to have someone look over how you do something
 2. Approach obstacles that come up as challenges that will help me succeed in the future
 3. Document the failures and what you did to improve
-~4. This is a test for strikethrough~
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+~~4. This is a test for strikethrough~~
 
 
