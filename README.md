@@ -25,5 +25,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-#Growth Mindset
+#Growth Mindset#
 
