@@ -11,4 +11,17 @@ I think a growth mindset is a willingness to accept that you always have room to
 
 ~~4. This is a test for strikethrough~~
 
+# **Hearthstone**
+> My personal addiction
+This is the [link] (https://playhearthstone.com/en-us) to download just in case you wanna play! 
+
+**One Piece Top 3 (subject to change)**
+1. Doffy
+  - 2. Enel
+    - 3. Sanji
+
+**To Do**
+- [x] eat
+- [x] sleep
+- [ ] code
 
