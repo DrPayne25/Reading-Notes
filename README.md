@@ -46,5 +46,4 @@ Writing - Simple I struggle to write not my strong suits but I want to improve. 
 
 ## **More More More**
 [Markdown](Markdown.md)  
-
 [Fun with Terminal](Fun with Terminal.md)
