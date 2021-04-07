@@ -30,14 +30,14 @@ This is the [link](https://playhearthstone.com/en-us) to download just in case y
 
 ## **Professional Compentencies**
 
-### Strengths
+### **Strengths**
 Customer Orientation - My current work role has brought the need for customer orientation to succeed at. I think a lot of times I use this strength too much to cover up for my lack of other skills but do believe it is one of my biggest strengths that I can leverage to chat with customers about what they ate actually looking for. 
 
 Adaptability - This is one that I constantly see posted on my reviews its not one that I really see but have noticed many peers mention it. In my work life I leverage this by being able to do a lot of different task and then use that knowledge to work with the appropriate teams.
 
 Inclusivity - I like to hear all thoughts on how to improve everyone has a different experience that can help your team and project improve. I leverage this by keeping all ideas on the table plus keeping a mindset that my answer isn't the only one that will work it has greatly helped in my work life.
 
-### Struggles
+### **Struggles**
 Curiosity - I don’t have a huge desire to be inquisitive I hope to change this as these classes go on. I hope to challenge myself by forcing myself to be curious by looking at new ideas on how to code and continuing to want to learn. 
 
 Planning & Estimating - This is one of my big work area’s of improvement I struggle with time management and it causes me to miss a lot of the little things I think improving this would help. I challenge myself currently in this area by doing a better time of writing down my weekly schedule to keep myself accountable and if I can't reach my estimate reaching out to the right stakeholders sooner rather than later. 
