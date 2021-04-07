@@ -49,19 +49,19 @@ Writing - Simple I struggle to write not my strong suits but I want to improve. 
 **Acronym Cheat Sheet** 
 
 **CD** = Change Directory  
-**PWD** - Print Working Directory tells you what directory you are in! Use this to locate where you are when you get lost. 
-**LS** - List 
+**PWD** - Print Working Directory tells you what directory you are in! Use this to locate where you are when you get lost  
+**LS** - List
 
 ## **Choosing A Text Editor** 
 
 ### **MVP Features**
-1. Code Completion - Lets the text editor predict possible suggestions based on what you originally typed TIME SAVER - Look at Emmet
-2. Syntax Highlighting - Highlight your text so you can better visually see what you typed (look at above screen shot) 
-3. Nice Variety of Themes - Eye health you already know we looking for dark mode with green text
-4. The ability to choose from a healthy selection of extensions available -  allows your text editor to grow with the tools you would need down the road through extensions 
+1. **Code Completion** - Lets the text editor predict possible suggestions based on what you originally typed TIME SAVER - Look at Emmet
+2. **Syntax Highlighting** - Highlight your text so you can better visually see what you typed (look at above screen shot) 
+3. **Nice Variety of Themes** - Eye health you already know we looking for dark mode with green text
+4. **Healthy Selection of Extensions** -  allows your text editor to grow with the tools you would need down the road through extensions 
 
-Code in Plain text no need to bold underline or italicize. 
-Make sure to check that the file is saved with the appropriate file extension file name isn’t important just the stuff after .
+Code in Plain text no need to bold underline or italicize  
+Make sure to check that the file is saved with the appropriate file extension file name isn’t important just the stuff after
 
 ### **Text Editor Options**
 1. **NotePad++** - not quite sold on this based on the review in the articles
@@ -76,12 +76,12 @@ Make sure to check that the file is saved with the appropriate file extension fi
 IDE are actually a more all in one they can do the text stuff that a text editor can do but can also do more for managing and debugging more! Outlook is a good example of a IDE (not a fan of outlook so might be text editors for me) 
 
 The Command Line! 
-
+![note one](https://user-images.githubusercontent.com/81712870/113821795-6fcf9980-9731-11eb-8fe7-96090b78d05e.png)
 ￼<!--Image pending don't forget to add-->
 
-Line 1: Is showing the user (user@bash) then showing the commands you are telling it (ls -l /home/Ryan) 
-Line 2-5: This is the output from the above command that was sent
-Line 6: Finally you get a new prompt to start all over
+Line 1: Is showing the user (user@bash) then showing the commands you are telling it (ls -l /home/Ryan)  
+Line 2-5: This is the output from the above command that was sent  
+Line 6: Finally you get a new prompt to start all over  
 
 You can use the command echo $SHELL to see what Bash you are in
 Arrow keys are you friend they let you sort though what you have previously issued
