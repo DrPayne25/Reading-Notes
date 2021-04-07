@@ -12,4 +12,12 @@ Markdown is a way to style text on your website. From the formatting to style of
 Quoting Text: Done by adding a > before your text
 >Hacks   
 
-Links: Done by formatting the text you want to show in [] then adding the URL() right after with no space in[Github](github.com)
+Links: Done by formatting the text you want to show in [] then adding the URL() right after with no space in [Github](github.com)  
+Lists: 
+-A
+-B
+-C
+1. A
+2. B
+3. C
+
