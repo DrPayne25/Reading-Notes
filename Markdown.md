@@ -9,5 +9,5 @@ Markdown is a way to style text on your website. From the formatting to style of
 ~~Strikethrough:~~	~~ ~~This was mistaken text~~  
 **_Bold_ and nested italic**	** ** and _  
 ***All bold and italic***	***  
-Test Quoting
+Quoting Text: Done by adding a > before your text
 >Hacks
