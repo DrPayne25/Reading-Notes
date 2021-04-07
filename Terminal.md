@@ -107,5 +107,5 @@ You can also use a backslash as an escape character so like cd User\ Pictures to
  **Double Space** - This will formate the line to the next direct line no code skip
 
 ## **Travel the Site**
-[Homepage](README.md)  
-[Markdown](Markdown.md)
+[**Homepage**](README.md)  
+[**Markdown**](Markdown.md)
