@@ -48,8 +48,8 @@ Writing - Simple I struggle to write not my strong suits but I want to improve. 
 
 **Acronym Cheat Sheet** 
 
-**CD** = Change Directory 
-**PWD** - Print Working Directory tells you what directory you are in! Use this to locate where you are when you get lost
+**CD** = Change Directory  
+**PWD** - Print Working Directory tells you what directory you are in! Use this to locate where you are when you get lost. 
 **LS** - List 
 
 ## **Choosing A Text Editor** 
@@ -60,7 +60,7 @@ Writing - Simple I struggle to write not my strong suits but I want to improve. 
 3. Nice Variety of Themes - Eye health you already know we looking for dark mode with green text
 4. The ability to choose from a healthy selection of extensions available -  allows your text editor to grow with the tools you would need down the road through extensions 
 
-Code in Plain text no need to bold underline or italicize
+Code in Plain text no need to bold underline or italicize. 
 Make sure to check that the file is saved with the appropriate file extension file name isn’t important just the stuff after .
 
 ### **Text Editor Options**
