@@ -100,7 +100,8 @@ Line 4-9: the -l indicate this will be a long listing a long listing has the fol
 * The next field is the group the file or directory belongs to (users in this case).
 * Following this is the file size.
 * Next up is the file modification time.
-* Finally we have the actual name of the file or directory.   
+* Finally we have the actual name of the file or directory.  
+ 
 Line 10-12: the /etc after tells the ls to not show our current directory but instead tells you the directories contents  
 Line 13: Showing a ls command with a command (-l) and a argument (/etc)  
 Line 12 and 18: indicate that some of the output has been cut for brevities sake  
