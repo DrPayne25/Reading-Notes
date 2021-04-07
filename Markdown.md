@@ -1,2 +1,11 @@
 # **Markdown:** An Alex Payne Reading-Notes Original
 
+## **What is Markdown**
+Markdown is a way to style text on your website. From the formatting to style of text to links and lists!! It uses non-alphabetic characters such as #,*,and -
+
+## **Cheat Sheets**
+**Bold:**	** or __ Shortcut: command/control + b  
+*Italic:*	* * or _ Shortcut: command/control + i  
+~~Strikethrough:~~	~~ ~~This was mistaken text~~  
+**_Bold_ and nested italic**	** ** and _  
+***All bold and italic***	***  
