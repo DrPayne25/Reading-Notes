@@ -28,3 +28,6 @@ Lists:
 Great question two links to help you out in the future!  
 [Syntax Quick Sheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
 [Markdown 101](https://guides.github.com/features/mastering-markdown/)
+
+## **More More More**
+[Fun With Terminal](Terminal.md)
