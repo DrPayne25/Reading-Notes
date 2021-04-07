@@ -127,7 +127,7 @@ CD - Change Directory running this without any argument will take you back to th
 ￼![note four](https://user-images.githubusercontent.com/81712870/113821720-53336180-9731-11eb-8aa5-81cba696f275.png)
 
 ### **Summary**
-￼![photo five](https://user-images.githubusercontent.com/81712870/113821734-5890ac00-9731-11eb-9fcf-0277053d2e43.png)
+![photo five](https://user-images.githubusercontent.com/81712870/113821734-5890ac00-9731-11eb-9fcf-0277053d2e43.png)
 
 ### **Activity: Making my way back home**
 1. CD /home
