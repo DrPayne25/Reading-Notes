@@ -43,3 +43,7 @@ Curiosity - I don’t have a huge desire to be inquisitive I hope to change this
 Planning & Estimating - This is one of my big work area’s of improvement I struggle with time management and it causes me to miss a lot of the little things I think improving this would help. I challenge myself currently in this area by doing a better time of writing down my weekly schedule to keep myself accountable and if I can't reach my estimate reaching out to the right stakeholders sooner rather than later. 
 
 Writing - Simple I struggle to write not my strong suits but I want to improve. I currently work to improve this area by forcing myself to take assignments that force me tow write. I then try to utilize the folks that I know are good at writing to help me improve. 
+
+## **More More More**
+[Markdown](Markdown.md)
+[Fun with Terminal](Fun with Terminal.md)
