@@ -108,7 +108,7 @@ Line 12 and 18: indicate that some of the output has been cut for brevities sake
 
 ### **Absolute and Relative Paths: Which way will we go???**
 ![note three](https://user-images.githubusercontent.com/81712870/113821709-4f074400-9731-11eb-8114-6685e2a2d498.png)
-￼
+
 Line 1-3: Just a PWD command to see where this is   
 Line 4-6: Think this basically is just telling us where the documents folder is located on the machine  
 Line 7: This is an absolute path it will give the same output since we are just telling it exactly what to do  
@@ -142,11 +142,11 @@ Mac is Case Sensitive make sure to check that
 If you were looking for a folder with a space in such a the User Pictures folder you would put that in ‘User Pictures’
 You can also use a backslash as an escape character so like cd User\ Pictures to tell it to ignore the next space 
 ![photo six](https://user-images.githubusercontent.com/81712870/113821746-5f1f2380-9731-11eb-88da-57069edfbbfc.png)
-￼
+
 ?????? What how does this work - Figured out you just need to use tab to go to the options
 
 ![photo seven](https://user-images.githubusercontent.com/81712870/113821756-62b2aa80-9731-11eb-8a4a-850d668aca98.png)
-￼
+
  **Mkdir** - will create a drive  
  **Double Space** - This will formate the line to the next direct line no code skip
 
