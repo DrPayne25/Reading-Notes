@@ -32,4 +32,4 @@ Great question two links to help you out in the future!
 [Markdown 101](https://guides.github.com/features/mastering-markdown/)
 
 ## **More More More**
-[Fun With Terminal](Terminal.md)
+[**Fun With Terminal**](Terminal.md)                                                                          [Homepage](Readme.md)
