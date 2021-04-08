@@ -33,4 +33,4 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 # **Table of Contents**
 - [**Markdown**](Markdown.md)  
 - [**Terminal**](Terminal.md)
-- [**Git & GitHub**](Git.md)
+- [**Git Who**](Git.md)
