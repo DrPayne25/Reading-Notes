@@ -30,7 +30,8 @@ Writing - Simple I struggle to write not my strong suits but I want to improve. 
 
 Thanks for anyone that takes the time to give any feedback or help out with this new experince! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with userful information!
 
+
 # **Table of Contents**
 - [**Markdown**](Markdown.md)  
-- [**Terminal**](Terminal.md)
+- [**Fun With Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
