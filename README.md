@@ -1,6 +1,6 @@
-# **Alex Payne Bio:** A Reading Notes Original
+# **Alex Payne Bio:** A Reading-Notes Original
 
-Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as a System Admin but hope to move over to the dev side and then down the road becomeing an SRE would be ideal. In my free time I love to play video games and sleep not always in that order. ~~I also enjoy long walks on the beach and a good bottle of wine!~~ Wrong profile sorry haha. 
+Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as a System Admin but hope to move over to the dev side andwould love to become a machine learning engineer as the end goal. In my free time I love to play video games like hearthstone and God of War. If not in front of a computer screen you can find me tryng to catch up on sleep! ~~I also enjoy long walks on the beach and a good bottle of wine!~~ Wrong profile sorry haha. 
 
 ## **_Growth_ Mindset**
 
@@ -11,22 +11,6 @@ I think a growth mindset is a willingness to accept that you always have room to
 2. Approach obstacles that come up as challenges that will help me succeed in the future
 3. Document the failures and what you did to improve   
 ~~4. This is a test for strikethrough~~
-
-# **Hearthstone**
-> My personal addiction
-
-This is the [link](https://playhearthstone.com/en-us) to download just in case you wanna play! 
-
-**One Piece Top 3 (subject to change)**
-1. Doffy
-   -  Sanji
-       -  Enel
-
-
-**To Do**
-- [x] eat
-- [x] sleep
-- [ ] code
 
 ## **Professional Compentencies**
 
@@ -42,8 +26,11 @@ Curiosity - I don’t have a huge desire to be inquisitive I hope to change this
 
 Planning & Estimating - This is one of my big work area’s of improvement I struggle with time management and it causes me to miss a lot of the little things I think improving this would help. I challenge myself currently in this area by doing a better time of writing down my weekly schedule to keep myself accountable and if I can't reach my estimate reaching out to the right stakeholders sooner rather than later. 
 
-Writing - Simple I struggle to write not my strong suits but I want to improve. I currently work to improve this area by forcing myself to take assignments that force me tow write. I then try to utilize the folks that I know are good at writing to help me improve. 
+Writing - Simple I struggle to write not my strong suits but I want to improve. I currently work to improve this area by forcing myself to take assignments that force me tow write. I then try to utilize the folks that I know are good at writing to help me improve.
 
-## **Table of Contents**
+Thanks for anyone that takes the time to give any feedback or help out with this new experince! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with userful information!
+
+# **Table of Contents**
 - [**Markdown**](Markdown.md)  
-- [**Fun with Terminal**](Terminal.md)
+- [**Terminal**](Terminal.md)
+- [**Git & GitHub**](Git.md)

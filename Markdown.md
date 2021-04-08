@@ -32,6 +32,25 @@ Great question two links to help you out in the future!
 [Syntax Quick Sheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
 [Markdown 101](https://guides.github.com/features/mastering-markdown/)
 
-## **Table of Contents**
+# **Working in the lab!**
+
+## **Hearthstone**
+> My personal addiction
+
+This is the [link](https://playhearthstone.com/en-us) to download just in case you wanna play! 
+
+**One Piece Top 3 (subject to change)**
+1. Doffy
+   -  Sanji
+       -  Enel
+
+
+**To Do**
+- [x] eat
+- [x] sleep
+- [ ] code
+
+## **Navigation**
 - [**Homepage**](README.md)  
-- [**Fun With Terminal**](Terminal.md)
+- [**Fun with Terminal**](Terminal.md)
+- [**Git & GitHub = A Good Time**](Git.md)
