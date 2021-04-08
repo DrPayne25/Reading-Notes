@@ -20,7 +20,7 @@ ACP = Add Commit Push
 ## **GitHub same same but different**
 GitHub isn't a VCS like git but it is the website that helps dev mange and store code. It also helps with tracking of changes and allows devs to control who can edit what within their code.
 
-# **Setting up a Git Repo**  
+# **Import or to Clone that is the quesiton**  
 1.	Import use a existing directory into Git using terminal   
 ![photo1](https://user-images.githubusercontent.com/81712870/113979656-62321680-97fa-11eb-9da2-4940ed97605e.png)  
 2.	Clone the repo from an existing git repo basically copy and paste of the repo info to your local machine  
