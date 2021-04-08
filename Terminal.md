@@ -32,6 +32,8 @@ IDE are actually a more all in one they can do the text stuff that a text editor
 The Command Line! 
 ![note one](https://user-images.githubusercontent.com/81712870/113821795-6fcf9980-9731-11eb-8fe7-96090b78d05e.png)
 
+<!-- this is a test -->
+
 Line 1: Is showing the user (user@bash) then showing the commands you are telling it (ls -l /home/Ryan)  
 Line 2-5: This is the output from the above command that was sent  
 Line 6: Finally you get a new prompt to start all over  
