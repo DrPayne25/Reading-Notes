@@ -28,7 +28,7 @@ Planning & Estimating - This is one of my big work area’s of improvement I str
 
 Writing - Simple I struggle to write not my strong suits but I want to improve. I currently work to improve this area by forcing myself to take assignments that force me tow write. I then try to utilize the folks that I know are good at writing to help me improve.
 
-Thanks for anyone that takes the time to give any feedback or help out with this new experince! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with userful information!
+Thanks for anyone that takes the time to give any feedback or help out with this new experince! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with useful information!
 
 ![sand](https://user-images.githubusercontent.com/81712870/114113655-04eaa380-9894-11eb-96e0-be4bc596e323.jpg)
 
