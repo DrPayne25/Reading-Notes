@@ -92,7 +92,7 @@ Two Basic categories of questions you can ask to help determine why they are com
 - Card Sorting is a technique to help you figure out where information should go
 - Asking your target audience about helping group related info they are using it 
 - Site Maps start with a home page  
-￼![SiteMaps](https://user-images.githubusercontent.com/81712870/114134400-8ce4a380-98bc-11eb-9791-da939cf9e8fb.png)  
+￼![SiteMaps](https://user-images.githubusercontent.com/81712870/114134400-8ce4a380-98bc-11eb-9791-da939cf9e8fb.png)
 - Remember to focus on the goal a visitor is hoping to achieve if they can’t do that easily and intuitively they will most likely look elsewhere
 - Remember you want to organize it in a way the reflect your target audience if it doens’t make sense to them but you are they going to use it? 
 
@@ -102,7 +102,7 @@ Its a simple sketch of the key info on that needs to go on each page
 - Include info such as the logo, primary navigation, headings and main bodies of text, user logins 
 - Don’t include info such as color scheme, font choices, backgrounds or images for the website 
 - Remember this is a good way to have them focus on the site functions not the site look that can adjust much easier than site functions
-￼![WireFrames](https://user-images.githubusercontent.com/81712870/114134414-9241ee00-98bc-11eb-89f6-b44df16887cb.png)
+![WireFrames](https://user-images.githubusercontent.com/81712870/114134414-9241ee00-98bc-11eb-89f6-b44df16887cb.png)
 
 ## **Message = Design**
 *The primary aim of any kind of visual design is to communicate*
@@ -116,13 +116,10 @@ Most folks don’t read an entire website they skim through for the information 
 
 - Size  
 ![size](https://user-images.githubusercontent.com/81712870/114134447-9d951980-98bc-11eb-8ab9-1fb2ffc14855.png)
-    ￼
 - Color  
 ![Color](https://user-images.githubusercontent.com/81712870/114134460-a2f26400-98bc-11eb-91ad-d555e1fee9a1.png)￼
-
 - Style  
 ![style](https://user-images.githubusercontent.com/81712870/114134470-a7b71800-98bc-11eb-99f7-d52790db35ff.png)￼
-
 - Images  
 ![images](https://user-images.githubusercontent.com/81712870/114134477-aab20880-98bc-11eb-934d-3ffeab985363.png)
 
