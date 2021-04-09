@@ -112,7 +112,7 @@ Its a simple sketch of the key info on that needs to go on each page
 - Grouping together related content into blocks or chunks makes the page look simpler (and easier to understand). 
 
 Visual Hierarchy
-Most folks don’t read an entire website they skim through for the information that is important to them using visual hierarchy can help get your message across and help them find what they are looking for 
+Most folks don’t read an entire website they skim through for the information that is important to them using visual hierarchy can help get your message across and help them find what they are looking for.
 
 - Size  
 ![size](https://user-images.githubusercontent.com/81712870/114134447-9d951980-98bc-11eb-8ab9-1fb2ffc14855.png)
