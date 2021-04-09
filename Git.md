@@ -10,12 +10,13 @@ Snapshots: Stores references of your previous works
 4. Can view, apply, an remove those changes 
 5. Keep all your files in one repo 
 
-**Random Thoughts**  
+**Food For Thought**  
 Think of a **Commit = Save As** it basically saves the progress that was made  
 Each commit is a snapshot that has a label that got to it  
 Head = the label meaning your here  
 Make sure to describe each commit not for me but for others that may work on it  
 ACP = Add Commit Push
+
 
 ## **GitHub same same but different**
 GitHub isn't a VCS like git but it is the website that helps dev mange and store code. It also helps with tracking of changes and allows devs to control who can edit what within their code.
@@ -60,3 +61,4 @@ Bunch more things to actually take away from this but I can go [here](https://bl
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
 - [**HTML**](HTML.md)
+<!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

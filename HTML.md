@@ -1,7 +1,6 @@
 # **HTML & CSS 101**
 
-## **Random Notes**
-
+## **Food For Thought**
 **Touch:** will create a new file in terminal  
 Git push just push to all not looking at tree’s while git push origin main push just your origin  
 Get in the habit of always doing **git status** that will help you from doing what you did with Connor slow down to speed up  
@@ -9,6 +8,8 @@ Make code changes in VS Code
 Use your terminal to make changes to act commit push flow  
 Slow down times in the videos that you want to to better see what Brad is doing  
 You only clone once!!!! use push and pull to adjust the code in your local and GitHub  
+Angled brackets in HTML denote **elements** Elements are made up of two tags an opening tag and a closing tag example written in the code if you inspect this line! Do that by right clicking on the page and hit inspect on Google Chrome<HTML></Html> < HTML > < /HTML > or remove the spaces in this when writing the code 
+Each Element tells the browser something about the info inbetween tags
 
 **HTML:** Hyper Text Mark Down Learning 
 ![bradexample](https://user-images.githubusercontent.com/81712870/114134390-87875900-98bc-11eb-8d9a-109e3fbeb69f.png)
@@ -25,7 +26,7 @@ Creating fictional visitors to the website will allow you to refer back to there
 ### **Target Audience: Individuals**
 - What is the age range of your target audience?  
 - Will your site appeal to more women or men? What is the mix?  
-- Which country do your visitors live in?  
+- Which country do your visitors live in? 7 < 2 > 
 - Do they live in urban or rural areas?  
 - What is the average income of visitors?  
 - What level of education do they have?  
@@ -141,8 +142,20 @@ Most folks don’t read an entire website they skim through for the information 
 - Size, color, and style help differentiate between pieces of info
 - Grouping and similarity to help simplify what you are presenting with your audience  
 
+## **Page Structure You Say?**
+<!-- Placeholder for Structure Photo -->
+
+## **One Tag Two Tag**
+<!-- Placeholder for Opening Tag Photo -->
+<!-- Placeholder for Closing Tag Photo -->
+
+## **Ding lvl up! You get an Attribute**
+<!-- Placeholder for Attribute 1 Photo -->
+<!-- Placeholder for Attribute 2 Photo -->
+
 ## **Navigation**
 - [**Homepage**](README.md)
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
+<!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
