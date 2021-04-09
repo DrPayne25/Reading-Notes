@@ -1,6 +1,6 @@
 # **Fun With Terminal:** An Alex Payne Reading-Notes Original
 
-![photo](Images/terminal.jpg)
+![photo](./Images/terminal.jpg)
 
 **Acronym Cheat Sheet** 
 **CD** = Change Directory  
