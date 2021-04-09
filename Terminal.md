@@ -1,7 +1,8 @@
 # **Fun With Terminal:** An Alex Payne Reading-Notes Original
 
-**Acronym Cheat Sheet** 
+![photo](Images/terminal.jpg)
 
+**Acronym Cheat Sheet** 
 **CD** = Change Directory  
 **PWD** - Print Working Directory tells you what directory you are in! Use this to locate where you are when you get lost  
 **LS** - List
