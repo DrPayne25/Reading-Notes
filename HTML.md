@@ -10,6 +10,7 @@ Slow down times in the videos that you want to to better see what Brad is doing
 You only clone once!!!! use push and pull to adjust the code in your local and GitHub  
 Angled brackets in HTML denote **elements** Elements are made up of two tags an opening tag and a closing tag example written in the code if you inspect this line! Do that by right clicking on the page and hit inspect on Google Chrome<HTML></Html> < HTML > < /HTML > or remove the spaces in this when writing the code 
 Each Element tells the browser something about the info inbetween tags
+A file called index.html which is the homepage for the entire site
 
 **HTML:** Hyper Text Mark Down Learning 
 ![bradexample](https://user-images.githubusercontent.com/81712870/114134390-87875900-98bc-11eb-8d9a-109e3fbeb69f.png)
@@ -90,8 +91,8 @@ Two Basic categories of questions you can ask to help determine why they are com
 - Site Maps are basically another word to describe a layout of the site structure
 - Card Sorting is a technique to help you figure out where information should go
 - Asking your target audience about helping group related info they are using it 
-- Site Maps start with a home page 
-￼![SiteMaps](https://user-images.githubusercontent.com/81712870/114134400-8ce4a380-98bc-11eb-9791-da939cf9e8fb.png)
+- Site Maps start with a home page  
+￼![SiteMaps](https://user-images.githubusercontent.com/81712870/114134400-8ce4a380-98bc-11eb-9791-da939cf9e8fb.png)  
 - Remember to focus on the goal a visitor is hoping to achieve if they can’t do that easily and intuitively they will most likely look elsewhere
 - Remember you want to organize it in a way the reflect your target audience if it doens’t make sense to them but you are they going to use it? 
 
@@ -143,15 +144,43 @@ Most folks don’t read an entire website they skim through for the information 
 - Grouping and similarity to help simplify what you are presenting with your audience  
 
 ## **Page Structure You Say?**
-<!-- Placeholder for Structure Photo -->
+![Structure](https://user-images.githubusercontent.com/81712870/114142022-3c267800-98c7-11eb-8140-d061e09f1172.png)
 
 ## **One Tag Two Tag**
-<!-- Placeholder for Opening Tag Photo -->
-<!-- Placeholder for Closing Tag Photo -->
+![Open](https://user-images.githubusercontent.com/81712870/114142086-4f394800-98c7-11eb-886f-17929a380975.png)
+![Closing](https://user-images.githubusercontent.com/81712870/114142110-55c7bf80-98c7-11eb-84d2-30a6987cce85.png)
 
 ## **Ding lvl up! You get an Attribute**
-<!-- Placeholder for Attribute 1 Photo -->
-<!-- Placeholder for Attribute 2 Photo -->
+![Attribute1](https://user-images.githubusercontent.com/81712870/114142183-7728ab80-98c7-11eb-82af-1faf12f31843.png)
+![Attribute2](https://user-images.githubusercontent.com/81712870/114142185-77c14200-98c7-11eb-913b-a6d3d5e59207.png)
+
+# **Takeaways**
+- HTML pages are text documents.
+- HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
+- Tags are often referred to as elements.
+- Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+- Opening tags can carry attributes, which tell us more about the content of that element.
+- Attributes require a name and a value.
+- To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+
+## **Doctypes**
+![Doctype](https://user-images.githubusercontent.com/81712870/114146796-dfc65700-98cc-11eb-8445-ffde3a93a459.png)
+
+## **Comments**
+![Comments](https://user-images.githubusercontent.com/81712870/114148378-8828eb00-98ce-11eb-974f-41ef82573959.png)
+
+## **Links**
+![L1](https://user-images.githubusercontent.com/81712870/114148920-2a48d300-98cf-11eb-895f-fe9055602ff4.png)
+
+## **Relative URLS**
+![R1](https://user-images.githubusercontent.com/81712870/114151858-6df10c00-98d2-11eb-9c36-5333759de38c.png)
+![R2](https://user-images.githubusercontent.com/81712870/114151867-71849300-98d2-11eb-8821-b3094b282f7e.png)
+
+## **Lazy Summary Recaps**
+![Su1](https://user-images.githubusercontent.com/81712870/114149684-076aee80-98d0-11eb-8add-2fdfbd3eec52.png)
+![SU2](https://user-images.githubusercontent.com/81712870/114150287-bd363d00-98d0-11eb-914b-13a09ef38b64.png)
+![Su3](https://user-images.githubusercontent.com/81712870/114150861-62511580-98d1-11eb-8955-87f06ed8f1ae.png)
+![SU4](https://user-images.githubusercontent.com/81712870/114151030-8d3b6980-98d1-11eb-9c95-3f2830244f4f.png)
 
 ## **Navigation**
 - [**Homepage**](README.md)
