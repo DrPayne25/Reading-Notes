@@ -59,3 +59,4 @@ Bunch more things to actually take away from this but I can go [here](https://bl
 - [**Homepage**](README.md)  
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
+- [**HTML**](HTML.md)

@@ -37,3 +37,4 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 - [**Markdown**](Markdown.md)  
 - [**Fun With Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
+- [**HTML**](HTML.md)

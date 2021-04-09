@@ -54,3 +54,4 @@ This is the [link](https://playhearthstone.com/en-us) to download just in case y
 - [**Homepage**](README.md)  
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
+- [**HTML**](HTML.md)
