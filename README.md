@@ -30,6 +30,8 @@ Writing - Simple I struggle to write not my strong suits but I want to improve. 
 
 Thanks for anyone that takes the time to give any feedback or help out with this new experince! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with userful information!
 
+![sand](https://user-images.githubusercontent.com/81712870/114113655-04eaa380-9894-11eb-96e0-be4bc596e323.jpg)
+
 
 # **Table of Contents**
 - [**Markdown**](Markdown.md)  
