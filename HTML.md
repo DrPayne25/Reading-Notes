@@ -21,7 +21,7 @@ A file called index.html which is the homepage for the entire site
 # **HTML & CSS - CH 18**
 
 ## **Who??**
-*Knowing your target audience is important when desiging and creating a website while worldwide appeal would be great your target audience is who most likely will interact with it*
+*Knowing your target audience is important when designing and creating a website while worldwide appeal would be great your target audience is who most likely will interact with it*
 Creating fictional visitors to the website will allow you to refer back to there needs when thinking about your audience 
 
 ### **Target Audience: Individuals**
@@ -64,7 +64,7 @@ Two Basic categories of questions you can ask to help determine why they are com
 
 - Creating a list of all the reasons a person would visit your site can help you find out what they are trying to achieve
 - Thinking about what a visitor will need to achieve what they are looking to do is the next key step 
-- Remember you are working with human pyschology here if someone doesn’t find what they need quickly or it is wrong info they will most likely look elsewhere
+- Remember you are working with human psychology here if someone doesn’t find what they need quickly or it is wrong info they will most likely look elsewhere
 - Will visitors be familiar with your subject area / brand or do you need to introduce yourself? 
 - Will they be familiar with the product / service / information you are covering or do they need background information on it? 
 - What are the most important features of what you are offering? 
@@ -94,7 +94,7 @@ Two Basic categories of questions you can ask to help determine why they are com
 - Site Maps start with a home page  
 ￼![SiteMaps](https://user-images.githubusercontent.com/81712870/114134400-8ce4a380-98bc-11eb-9791-da939cf9e8fb.png)
 - Remember to focus on the goal a visitor is hoping to achieve if they can’t do that easily and intuitively they will most likely look elsewhere
-- Remember you want to organize it in a way the reflect your target audience if it doens’t make sense to them but you are they going to use it? 
+- Remember you want to organize it in a way the reflect your target audience if it doesn't make sense to them but you are they going to use it? 
 
 ## **Wireframes**
 Its a simple sketch of the key info on that needs to go on each page 
@@ -130,7 +130,7 @@ Most folks don’t read an entire website they skim through for the information 
 - Selective: Primary navigation should only reflect the sections or content of a site
 - Context: Let a user know where they are in the website using color and visual markers 
 - Interactive: Links should be big enough to click on and it should change when the user hovers over each item or clicks on it
-- Consisten: Keep things the same your primary navigation should be the same everywhere not different on one page
+- Consistent: Keep things the same your primary navigation should be the same everywhere not different on one page
 
 # **Takeaways**
 - Understand your who the target demo is, why are they coming, what are they looking for and when are they coming back 
@@ -184,4 +184,5 @@ Most folks don’t read an entire website they skim through for the information 
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
+- [**CSS**](css.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

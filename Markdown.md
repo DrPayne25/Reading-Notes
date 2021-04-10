@@ -50,9 +50,10 @@ This is the [link](https://playhearthstone.com/en-us) to download just in case y
 - [x] sleep
 - [ ] code
 
-## **Navigation**
+## **Surf The Website**
 - [**Homepage**](README.md)  
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
 - [**HTML**](HTML.md)
+- [**CSS**](css.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
