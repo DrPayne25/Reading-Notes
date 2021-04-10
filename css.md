@@ -27,7 +27,7 @@
 + **type**:: specifies the type of document being linked to normally a text/css
 + **rel**: specifies the relationship between the HTML page and the file it is linked to this should be a stylesheet when linking to a scss file
 + You can have more than one CSS style sheet you can do this by having a <link\> element for every css file  
-![external](./Images/external.png)
+![external](./Images/External.png)
 
 ## **Internal CSS**
 + **<style\>** is the tag to place an element in for an internal CSS 
