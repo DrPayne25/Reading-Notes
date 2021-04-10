@@ -5,6 +5,8 @@
 + You do not need lots of computers to test your site, as there are online tools to show you what a page looks like in multiple browsers:
     1. [BrowserCam](https://www.browsercam.com/)  
     2. [CrossBrowserTesting](https://crossbrowsertesting.com/) 
++ class=: can have multiple targets
++ id=: can only have one target
 
 ## **CSS Rules for Days**
 + CSS associates style rules with html elements
