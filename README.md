@@ -39,4 +39,5 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 - [**Git Who**](Git.md)
 - [**HTML**](HTML.md)
 - [**CSS**](css.md)
+- [**JavaScript**](javascript.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

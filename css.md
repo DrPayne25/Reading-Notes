@@ -135,4 +135,5 @@
 - [**Fun With Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
 - [**HTML**](HTML.md)
+- [**JavaScript**](javascript.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

@@ -62,4 +62,5 @@ Bunch more things to actually take away from this but I can go [here](https://bl
 - [**Fun with Terminal**](Terminal.md)
 - [**HTML**](HTML.md)
 - [**CSS**](css.md)
+- [**JavaScript**](javascript.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

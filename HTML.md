@@ -185,4 +185,5 @@ Most folks don’t read an entire website they skim through for the information 
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
 - [**CSS**](css.md)
+- [**JavaScript**](javascript.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

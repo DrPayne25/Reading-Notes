@@ -65,8 +65,8 @@
 ## **Conqueror of the Supreme Comments**
 + Write comments to explain what your code does. it makes it easier to read and understand and can help you and other who read it down the road
 + Multi-line comments are written by starting the line with /* and ends with */ anything written inside of that is not processed by the JS interpreter
-+ Normally they are used for descriptions of how the script works or to prevent a section of the script from running when testing it  
-![comments-example](./Images/comments-example.png)
++ Normally they are used for descriptions of how the script works or to prevent a section of the script from running when testing it   
+![comments-example](./Images/comments-example.png)  
 
 ## **Variable Vinsmoke Appears**
 + A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables
@@ -76,7 +76,92 @@
 + variables can be used to represent values in your scripts that are likely to change. The result is said to be **calculated** or **computed** using the data stored in the variables
 + The use of variables to represent numbers or other kinds of data is very similar to the concept of algebra (where letters are used to represent numbers\). The equals sign does something very different in programming 
 
-## **Variable Vinsomke will you declare them?**
+## **Variable Vinsmoke will you declare them?**
 + Before you can use a variable you need to announce that you want to use it
-+ This involves creating the variable then giving it a name normally you say that you declare the variable  
-![variable-example](./Images/variable-examples.png)
++ This involves creating the variable then giving it a name normally you say that you declare the variable   
+![variable-example](./Images/variable-examples.png)   
++ Var in the above example is what a programmer calls a keyword the JS interpreter knows that this keyword is used to create a variable
++ Before you can use the variable you gotta name it sometimes called an identifier the variable in the above example is called quantity
++ if the variable name is more than one word it is usually written in camelCase
++ CamelCase means the first word is all lowercase and any subsequent words have their first letter capitalized
+
+## **Variable Vinsmoke Assign them a Value**
++ Once a variable is created you can tell it what info you would like it to store. 
++ Normally you would say you assign a value to the variable   
+![variable-examples2](./Images/variable-examples2.png)  
++ Huzzah that variable is now usable by name
++ In the above example quantity that we created earlier is now set to 3
++ Variable's names should describe the kind of data that variable hold
++ The equals sign = is an assignment operator it says that you age going to assign a value to the variable 
++ It is also used to update the value given to a variable  
++ Util a value is assigned it is generally called undefined 
++ Where a variable is declared can have an effect upon whether the rest of the script can use it
++ Often this is called the scope of a variable 
+
+## **Dr Data Types Steps on the Scene** 
++ JavaScript distinguishes between numbers, strings, and true or false values known as Booleans
++ **NUMERIC DATA TYPE**: The numeric data type handles numbers **ex: 0.75**
++ **STRING DATA TYPE**: The strings data type consists of letters and other characters **ex: 'Hi, Ivy!'**
++ Note how the string data type is enclosed within a pair of quotes. These can be single or double quotes, but the opening quote must match the closing quote
++ Strings can be used when working with any kind of text. They are frequently used to add new content into a page and they can contain HTML markup
++ **BOOLEAN DATA TYPE**: Boolean data types can have one of two values: true or false it is generally on or off for this data type **ex: true**
++ In addition to these three data types, JavaScript also has others (arrays, objects, undefined, and null\)
++ Unlike some other programming languages, when declaring a variable in JavaScript, you do not need to specify what type of data it will hold
+
+## **Variable Vinsmoke try to store a number**  
+![numberstore](./Images/store-a-number-example1.png)   
+![numberstore](./Images/store-a-number-example2.png)    
++ Here, three variables are created and values are assigned to them.  
++ price holds the price of an individual tile  
++ quantity holds the number of tiles a customer wants  
++ total holds the total cost of the tiles  
++ Note that the numbers are not written inside quotation marks. Once a value has been assigned to a variable, you can use the variable name to represent that value
++ Here, the total cost is calculated by multiplying the price of a single tile by the number of tiles the customer wants
++ The result is then written into the page on the final two lines. You see this technique in more detail on 
+The first of these two lines finds the element whose id attribute has a value of cost, and the final line replaces the content of that element with new content
++ There are many ways to write content into a page, and several places you can place your script
+
+## **Variable Vinsmoke try to store a string**  
+![storeastring](./Images/store-a-string-example.png)  
++ Two variables are declared in the above example username & message and they and used for the above strings 'Molly' & 'See our upcoming range'
++ Note how the string is placed inside quote marks
++ The quotes can be single or double quotes, but they must match
++ Quotes should be straight (not curly) quotes
++ Strings must always be written on one line
+
+## **Variable Vinsmoke try to using quotes inside a string**
+![insdieastring](./Images/inside-a-string-example.png)   
++ Sometimes you will want to use a double or single quote mark within a string
++ Because strings can live in single or double quotes, if you just want to use double quotes in the string, you could surround the entire string in single quotes
++ If you just want to use single quotes in the string, you could surround the string in double quotes (as shown in the third line of the above example)
++ You can also use a technique called escaping the quotation characters. This is done by using a backwards slash (or "backslash") before any type of quote mark that appears within a string (as shown on the fourth line of this code sample).
++ The backwards slash tells the interpreter that the following character is part of the string, rather than the end of it.
+
+## **Variable Vinsmoke try to store a boolean**
+![booleanexample](./Images/store-a-boolean-example.png)  
++ A Boolean variable can only have a value of true or fa1se
++ It is rare that you would want to write the words true or false into the page for the user to read, but this data type does have two very popular uses
++ Booleans are used when the value can only be true/ fa1se
++ Second, Booleans are used when your code can take more than one path. Remember, different code may run in different circumstances
+
+## **Variable Vinsmoke time to learn some shorthand**
+![shorthand](./Images/shorthand-example.png)  
++ Variables are declared and values assigned in the same statement
++ Three variables are declared on the same line, then values assigned to each
++ Two variables are declared and assigned values on the same line. Then one is declared and assigned a value on the next line
++ The third example shows two numbers, but you can declare variables that hold different types of data on the same line, e.g., a string and a number
++ Here, a variable is used to hold a reference to an element in the HTML page
+
+## **Variable Vinsmoke change your Value**
+![changethevalue](./Images/changing-the-value-example.png)  
++ Once you have assigned a value to a variable, you can then change what is stored in the variable later in the same script
++ Once the variable has been created, you do not need to use the var keyword to assign it a new value. You just use the variable name, the equals sign (al so known as t he assignment operator), and the new value for that attribute
+
+## **Variable Vinsmoke what is your name**
++ There are six rules you must follow when giving a variable a name
+1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number
+2. The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name
+3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript [cheatsheet](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
+4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases 
+5. Use a name that describes the kind of information that the variable stores. For example, firstName might be used to store a person's first name, lastName for their last name, and age for their age
+6. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, firstName rather than firstname
