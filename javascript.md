@@ -5,6 +5,10 @@
 + {} anything inside is called a code block 
 + // is used to mark a note
 + cmd + ? will comment out a section in java
++ .js use console.log to see what the record is works in any sort of 
++ var today = new Date(\) would be said as declaring a variable named today and assigning it to the new Date data
++ To adjust your js file and create a function you can use all your old code add it in curly braces and name it a fucntion before hand function create  
+![example](Images/function-b-example.png)
 
 # **How it fits together**
 + **Javascript**: Also spelled JS 
@@ -165,6 +169,20 @@ The first of these two lines finds the element whose id attribute has a value of
   4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases 
   5. Use a name that describes the kind of information that the variable stores. For example, firstName might be used to store a person's first name, lastName for their last name, and age for their age
   6. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, firstName rather than firstname
+
+# **Vinsmoke Variable has a Summary**
++ A script is made up of a series of statements. Each statement is like a step in a recipe.
++ Scripts contain very precise instructions. For example, you might specify that a value must be remembered before creating a calculation using that value.
++ Variables are used to temporarily store pieces of information used in the script.
++ Arrays are special types of variables that store more than one piece of related information.
++ JavaScript distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
++ Expressions evaluate into a single value. Expressions rely on operators to calculate a value.
++ A script is made up of a series of statements. Each statement is like a step in a recipe.
++ Scripts contain very precise instructions. For example, you might specify that a value must be remembered before creating a calculation using that value.
++ Variables are used to temporarily store pieces of information used in the script.
++ Arrays are special types of variables that store more than one piece of related information.
++ JavaScript distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
++ Expressions evaluate into a single value. Expressions rely on operators to calculate a value
 
 ## **Surf The Website**
 - [**Homepage**](README.md)  
