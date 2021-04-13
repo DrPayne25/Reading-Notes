@@ -31,4 +31,14 @@
 
 ## **Charlotte Computer uses Circuits and logics**
 + Every input and output of a computer is a type of info that can be represented as a 1 or 0 
-+ 
+
+# **Table of Contents**
+- [**Markdown**](Markdown.md)  
+- [**Fun With Terminal**](Terminal.md)
+- [**Git Who**](Git.md)
+- [**HTML**](HTML.md)
+- [**CSS**](css.md)
+- [**JavaScript**](javascript.md)
+- [**JavaScript pt 2**](yonkojavascript.md)
+- [**Computers??**](howcomputerwork.md)
+<!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

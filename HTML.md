@@ -179,7 +179,7 @@ Most folks don’t read an entire website they skim through for the information 
 ![Su3](https://user-images.githubusercontent.com/81712870/114150861-62511580-98d1-11eb-8955-87f06ed8f1ae.png)
 ![SU4](https://user-images.githubusercontent.com/81712870/114151030-8d3b6980-98d1-11eb-9c95-3f2830244f4f.png)
 
-## **Navigation**
+## **Surf The Website**
 - [**Homepage**](README.md)
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
@@ -187,4 +187,5 @@ Most folks don’t read an entire website they skim through for the information 
 - [**CSS**](css.md)
 - [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
+- [**Computers??**](howcomputerwork.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

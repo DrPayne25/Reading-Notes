@@ -41,4 +41,5 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 - [**CSS**](css.md)
 - [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
+- [**Computers??**](howcomputerwork.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

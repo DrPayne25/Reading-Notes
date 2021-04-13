@@ -115,4 +115,5 @@ You can also use a backslash as an escape character so like cd User\ Pictures to
 - [**CSS**](css.md)
 - [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
+- [**Computers??**](howcomputerwork.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

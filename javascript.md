@@ -196,4 +196,5 @@ The first of these two lines finds the element whose id attribute has a value of
 - [**CSS**](css.md)
 - [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
+- [**Computers??**](howcomputerwork.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
