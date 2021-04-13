@@ -7,8 +7,12 @@
 + cmd + ? will comment out a section in java
 + .js use console.log to see what the record is works in any sort of 
 + var today = new Date(\) would be said as declaring a variable named today and assigning it to the new Date data
-+ To adjust your js file and create a function you can use all your old code add it in curly braces and name it a fucntion before hand function create  
-![example](Images/function-b-example.png)
++ To adjust your js file and create a function you can use all your old code add it in curly braces and name it a fucntion before hand function create    
+![example](Images/function-b-example.png)  
++ Script tags go at the bottom but inside the body 
++ put return at the end of a function that way you can return that info in the function
++ === equals and equal sign in javascript  
+![example2](Images/function-b-example2.png)
 
 # **How it fits together**
 + **Javascript**: Also spelled JS 
