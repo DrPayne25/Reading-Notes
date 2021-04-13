@@ -11,7 +11,6 @@
 + Website visitors do not always keep up with the latest browser releases, so website developers cannot always rely upon the latest technologies
 
 # **Yonko JavaScript gets back to basics**
-
 + Humans can achieve complex goals without thinking about them too much
 + script is just a series of short instructions, each of which is performed in order
 to solve the problem in hand
@@ -80,5 +79,15 @@ Function Name: sayHello(\);
 + when you design a script you need to note the ino the function will require in order to perform its task 
 
 ## **Yonko Javascript tries to get a single value**
-+ Some Functions return information to the code that called them
++ Some Functions return information to the code that called them  
 ![single](./Images/single-value.png)
+
+## **Surf The Website**
+- [**Homepage**](README.md)  
+- [**Fun with Terminal**](Terminal.md)
+- [**Git Who**](Git.md)
+- [**HTML**](HTML.md)
+- [**CSS**](css.md)
+- [**JavaScript**](javascript.md)
+- [**JavaScript pt 2**](yonkojavascript.md)
+<!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

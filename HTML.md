@@ -186,4 +186,5 @@ Most folks don’t read an entire website they skim through for the information 
 - [**Git Who**](Git.md)
 - [**CSS**](css.md)
 - [**JavaScript**](javascript.md)
+- [**JavaScript pt 2**](yonkojavascript.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

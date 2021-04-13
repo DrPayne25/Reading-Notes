@@ -63,4 +63,5 @@ Bunch more things to actually take away from this but I can go [here](https://bl
 - [**HTML**](HTML.md)
 - [**CSS**](css.md)
 - [**JavaScript**](javascript.md)
+- [**JavaScript pt 2**](yonkojavascript.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
