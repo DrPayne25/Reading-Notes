@@ -12,7 +12,7 @@
 + Script tags go at the bottom but inside the body 
 + put return at the end of a function that way you can return that info in the function
 + === equals and equal sign in javascript  
-![example2](Images/function-b-example2.png)
+![example2](Images/function-b-example2.png)  
 
 # **How it fits together**
 + **Javascript**: Also spelled JS 
