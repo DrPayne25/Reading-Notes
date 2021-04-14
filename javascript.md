@@ -13,6 +13,7 @@
 + put return at the end of a function that way you can return that info in the function
 + === equals and equal sign in javascript  
 ![example2](Images/function-b-example2.png)  
++ cmd + ] is how you all tab
 
 # **How it fits together**
 + **Javascript**: Also spelled JS 
@@ -194,7 +195,7 @@ The first of these two lines finds the element whose id attribute has a value of
 - [**Git Who**](Git.md)
 - [**HTML**](HTML.md)
 - [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
 - [**Computers??**](howcomputerwork.md)
+- [**Fun with Loops**](yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

@@ -138,4 +138,5 @@
 - [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
 - [**Computers??**](howcomputerwork.md)
+- [**Fun with Loops**](yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

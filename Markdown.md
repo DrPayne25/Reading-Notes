@@ -59,4 +59,5 @@ This is the [link](https://playhearthstone.com/en-us) to download just in case y
 - [**JavaScript**](javascript.md)
 - [**JavaScript pt 2**](yonkojavascript.md)
 - [**Computers??**](howcomputerwork.md)
+- [**Fun with Loops**](yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
