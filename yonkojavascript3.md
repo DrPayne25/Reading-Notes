@@ -5,6 +5,8 @@
 + A while loop is used to evaluate an expression until we get the desired result 
 + A for loop we have more control over than a while loop
 + (--\) & (++\) can be used in a loop to go down or up by one respectively 
++ Check back at 6:40-6:50 for a note to take for brad on the below photo
+!
 
 ## **Yonko JavaScript, Marine Comparison Operator is trying to Evaluate our ships Conditions**
 + You can evavalute a situation by comparing one value in the script to what you expect it might be
@@ -54,7 +56,7 @@
 + This repeats until the condition returns false
 + Common Types of Loops
   1. **For**: if you need to run code a specific number of times use a for loop generally the most common loop in these loops the condition is usually a counter which is used to tell how man times the loop should run
-  2. **While**: If you do no know how many times the code should run you can use a while loop. IN this loop the condition can be something other than a counter and the code will continue to lop for as long as the condition is true
+  2. **While**: If you do no know how many times the code should run you can use a 'while loop'. IN this loop the condition can be something other than a counter and the code will continue to lop for as long as the condition is true
   3. **DO While**: The do..while loop is very similar to the while loop but one big difference it will always run the statements inside the curly braces at least once even if the condition evaluates to false  
 ![loop](Images/loops-example.png)  
 + the above example is a for loop the conditions is a counter that counts to ten the result would write 0123456789
