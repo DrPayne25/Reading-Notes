@@ -1,4 +1,4 @@
-# **Alex Payne Bio:** A Reading-Notes Original
+# **Alex Payne 102 Homepage:** A Reading-Notes 102 Original
 
 This is my Homepage for my 102 Class it has links to all future sections as well as what a growth mindset is to me! 
 
