@@ -34,6 +34,14 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 
 
 # **Table of Contents**
-- [**102**](102homepage.md)  
+- [**Homepage**](README.md)
+- [**Markdown**](Markdown.md)  
 - [**Fun With Terminal**](Terminal.md)
+- [**Git Who**](Git.md)
+- [**HTML**](HTML.md)
+- [**CSS**](css.md)
+- [**JavaScript**](javascript.md)
+- [**JavaScript pt 2**](yonkojavascript.md)
+- [**Computers??**](howcomputerwork.md)
+- [**Fun with Loops**](yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
