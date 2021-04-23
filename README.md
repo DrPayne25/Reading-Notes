@@ -16,7 +16,8 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   6. [**JavaScript**](javascript.md)
   7. [**JavaScript pt 2**](yonkojavascript.md)
   8. [**Computers??**](howcomputerwork.md)
-  9. [**Fun with Loops**](yonkojavascript3.md)   
+  9. [**Fun with Loops**](yonkojavascript3.md)  
+ 
 ## [**Code 201 Reading Notes**](201homepage.md)
   1. Day 00
   2. Day 01
