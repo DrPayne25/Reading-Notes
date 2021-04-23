@@ -18,20 +18,19 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   8. [**Computers??**](howcomputerwork.md)
   9. [**Fun with Loops**](yonkojavascript3.md)   
 ## [**Code 201 Reading Notes**](201homepage.md)
-  10. Day 00
-  11. Day 01
-  12. Day 02
-  13. Day 03
-  14. Day 04
-  15. Day 05
-  16. Day 06
-  17. Day 07
-  18. Day 08
-  19. Day 09
-  20. Day 10
-  21. Day 11
-  22. Day 12
-  23. Day 13
-  24. Day 14
-  25. Day 15
+  1. Day 00
+  2. Day 01
+  3. Day 02
+  4. Day 03
+  5. Day 04
+  6. Day 05
+  7. Day 06
+  8. Day 07
+  9. Day 08
+  10. Day 09
+  11. Day 10
+  12. Day 11
+  13. Day 12
+  14. Day 13
+  15. Day 14
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
