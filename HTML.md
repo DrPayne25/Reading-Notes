@@ -180,7 +180,7 @@ Most folks don’t read an entire website they skim through for the information 
 ![SU4](https://user-images.githubusercontent.com/81712870/114151030-8d3b6980-98d1-11eb-9c95-3f2830244f4f.png)
 
 ## **Surf The Website**
-- [**Homepage**](README.md)
+- [**Homepage**](102homepage.md)  
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)

@@ -51,7 +51,7 @@ This is the [link](https://playhearthstone.com/en-us) to download just in case y
 - [ ] code
 
 ## **Surf The Website**
-- [**Homepage**](README.md)  
+- [**Homepage**](102homepage.md)    
 - [**Fun with Terminal**](Terminal.md)
 - [**Git Who**](Git.md)
 - [**HTML**](HTML.md)

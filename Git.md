@@ -57,7 +57,7 @@ git push - will push back to your cloud reop
 Bunch more things to actually take away from this but I can go [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ## **Surf The Website**
-- [**Homepage**](README.md)  
+- [**Homepage**](102homepage.md)   
 - [**Markdown**](Markdown.md)
 - [**Fun with Terminal**](Terminal.md)
 - [**HTML**](HTML.md)

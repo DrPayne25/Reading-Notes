@@ -1,6 +1,6 @@
 # **Alex Payne Bio:** A Reading-Notes Original
 
-Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as a System Admin but hope to move over to the dev side and would love to become a machine learning engineer as the end goal. In my free time I love to play video games like hearthstone and God of War. If not in front of a computer screen you can find me trying to catch up on sleep! ~~I also enjoy long walks on the beach and a good bottle of wine!~~ Wrong profile sorry haha. 
+This is my Homepage for my 102 Class it has links to all future sections as well as what a growth mindset is to me! 
 
 ## **_Growth_ Mindset**
 
@@ -30,7 +30,7 @@ Customer Orientation - My current work role has brought the need for customer or
 
 Thanks for anyone that takes the time to give any feedback or help out with this new experience! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with useful information!
 
-![sand](https://user-images.githubusercontent.com/81712870/114113655-04eaa380-9894-11eb-96e0-be4bc596e323.jpg)
+![outside](./Images/outsidelegotropper.jpg)
 
 
 # **Table of Contents**
