@@ -19,7 +19,7 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   9. [**Fun with Loops**](yonkojavascript3.md)  
  
 ## [**Code 201 Reading Notes**](201homepage.md)
-  1. Day 00
+  1. [Class 00](class-01.md)
   2. Day 01
   3. Day 02
   4. Day 03
