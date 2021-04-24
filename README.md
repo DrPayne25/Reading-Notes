@@ -6,7 +6,8 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
 ![sand](https://user-images.githubusercontent.com/81712870/114113655-04eaa380-9894-11eb-96e0-be4bc596e323.jpg)
 
 
-# **Table of Contents**
+# **Table of Payne**
+
 ## [**Code 102 Reading Notes**](102homepage.md)
   1. [**Markdown**](Markdown.md)  
   2. [**Fun With Terminal**](Terminal.md)
