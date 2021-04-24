@@ -1,7 +1,7 @@
 # **Class 00 Developer Payne's Origin**
 
 ## **Section Selector**:
-- [Structure](#structure)
+- [Structure]
 - [Extra Markup](#extra-markup)
 - [HTML 5 Layout](#html-5-layout)
 - [Process & Design](#process--design)
