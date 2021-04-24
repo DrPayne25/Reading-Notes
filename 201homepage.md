@@ -20,8 +20,10 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 
 ![outside](./Images/outsidelegotropper.jpg)  
 
-## [**Code 201**](201homepage.md)
-### **Surf the Class**
+
+## **Code 201**
+### **Surf the 201 Class**  
+  - [Homepage](README.md)
   1. [Class 00](class-01.md)
   2. Day 01
   3. Day 02
