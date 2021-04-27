@@ -8,20 +8,20 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
 
 # **Table of Payne**
 
-## [**Code 102 Reading Notes**](102homepage.md)
-  1. [**Markdown**](Markdown.md)  
-  2. [**Fun With Terminal**](Terminal.md)
-  3. [**Git Who**](Git.md)
-  4. [**HTML**](HTML.md)
-  5. [**CSS**](css.md)
-  6. [**JavaScript**](javascript.md)
-  7. [**JavaScript pt 2**](yonkojavascript.md)
-  8. [**Computers??**](howcomputerwork.md)
-  9. [**Fun with Loops**](yonkojavascript3.md)  
+## [**Code 102 Reading Notes**](/102/102homepage.md)
+  1. [**Markdown**](/102/Markdown.md)  
+  2. [**Fun With Terminal**](/102/Terminal.md)
+  3. [**Git Who**](/102/Git.md)
+  4. [**HTML**](/102/HTML.md)
+  5. [**CSS**](/102/css.md)
+  6. [**JavaScript**](/102/javascript.md)
+  7. [**JavaScript pt 2**](/102/yonkojavascript.md)
+  8. [**Computers??**](/102/howcomputerwork.md)
+  9. [**Fun with Loops**](/102/yonkojavascript3.md)  
  
-## [**Code 201 Reading Notes**](201homepage.md)
-  1. [Class 00](class-01.md)
-  2. Day 01
+## [**Code 201 Reading Notes**](/201/201homepage.md)
+  1. [Class 00](/201/class-01.md)
+  2. [Class 00](/201/class-02.md)
   3. Day 02
   4. Day 03
   5. Day 04
