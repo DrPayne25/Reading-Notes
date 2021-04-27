@@ -75,7 +75,7 @@ white space is used to make code easier to read
 + If your building a site with more than one page you should use a external CSS style sheet
 + This will allow all the pages to use the same rules rather than having to duplicate them each time
 + Changing the one sheet will change all other linked pages  
-![internal](/Images/Internal.png)  
+![internal](../Images/Internal.png)  
 
 ### **CSS Selectors**
 + CSS selectors are case sensitive so they must match element names and attribute values exactly
