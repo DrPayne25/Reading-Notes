@@ -22,28 +22,28 @@
 ---
 
 ## **Text**
-Structural Markup: Elements that you use to describe both heading and paragraphs
-Semantic Markup: provides extra info such as where emphasis is placed in a sentence 
-HTML has six levels of headings h1 - h6
-<p\> is used to create a paragraph
-<b\> is used to bold
-<i\> is used to italic 
-<sup\> element is used to contain characters 
-<sub\> is used to contain characters that should be subscript 
-white space is used to make code easier to read 
-<br /\> used to make a manual line break 
-<hr /\> used to create a break between themes 
-<strong\> indicates that its content has strong importance 
-<em\> indicates emphasis that subtly changes the meaning
-<blockquote\> element is used for longer quotes 
-<q\> is used for shorter quotes 
-<abbr\> is used for abbreviation or an acronym 
-<cite\> can be used to indicate where the citation is from 
-<dfn\> is used to indicate the defining instance of a new term 
-<address\> element has a quite specific use to contain 
-<ins\> used to show content that has been inserted 
-<del\> used to show text that has been deleted 
-<s\> will usually do a strike through 
+Structural Markup: Elements that you use to describe both heading and paragraphs  
+Semantic Markup: provides extra info such as where emphasis is placed in a sentence  
+HTML has six levels of headings h1 - h6  
+<p\> is used to create a paragraph  
+<b\> is used to bold  
+<i\> is used to italic   
+<sup\> element is used to contain characters   
+<sub\> is used to contain characters that should be subscript   
+white space is used to make code easier to read   
+<br /\> used to make a manual line break   
+<hr\> used to create a break between themes   
+<strong\> indicates that its content has strong importance   
+<em\> indicates emphasis that subtly changes the meaning  
+<blockquote\> element is used for longer quotes  
+<q\> is used for shorter quotes   
+<abbr\> is used for abbreviation or an acronym   
+<cite\> can be used to indicate where the citation is from   
+<dfn\> is used to indicate the defining instance of a new term   
+<address\> element has a quite specific use to contain   
+<ins\> used to show content that has been inserted   
+<del\> used to show text that has been deleted   
+<s\> will usually do a strike through   
 
 ## **Key Takeaways**
 - HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
@@ -66,7 +66,7 @@ white space is used to make code easier to read
 + CSS declarations sit inside curly brackets and have two parts a **property** and a **value** multiple properties can be specified in on declaration when separated by a semi colon :
 + **Properties**: indicate the aspects of the element you want to change
 + **Values** Specify the settings you want to use for that chosen properties  
-![elements](/Images/Elements.png)  
+![elements](../Images/Elements.png)  
 
 ### **Internal CSS**
 + **<style\>** is the tag to place an element in for an internal CSS 
@@ -80,8 +80,8 @@ white space is used to make code easier to read
 ### **CSS Selectors**
 + CSS selectors are case sensitive so they must match element names and attribute values exactly
 + More advanced selectors than the ones below will be taught as we go on  
-![css-selector1](/Images/selector-examples.png)  
-![css-selector2](/Images/selector-types.png)  
+![css-selector1](../Images/selector-examples.png)  
+![css-selector2](../Images/selector-types.png)  
 
 ### **I choose....CSS CASCADE**
 + If two selectors are identical the last rule will take precedence
@@ -110,7 +110,7 @@ white space is used to make code easier to read
 + A script is a series of instructions that your computer follows one by one
 + Each individual instruction is know as a **Statement** 
 + Statements should end with a semicolon ;  
-![statements-example](/Images/statement-example.png)
+![statements-example](../Images/statement-example.png)
 + Lines 1-3 6,8,,10,12,& 14 are all statements
 + These {\} braces indicate the start and end of a code block. Each code block could contain many more statements 
 + Lines 5,7,9,11 determines which code should be run
@@ -128,7 +128,7 @@ white space is used to make code easier to read
 + Write comments to explain what your code does. it makes it easier to read and understand and can help you and other who read it down the road
 + Multi-line comments are written by starting the line with /* and ends with */ anything written inside of that is not processed by the JS interpreter
 + Normally they are used for descriptions of how the script works or to prevent a section of the script from running when testing it   
-![comments-example](/Images/comments-example.png)  
+![comments-example](../Images/comments-example.png)  
 
 ### **Variable Vinsmoke Appears**
 + A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables
@@ -141,7 +141,7 @@ white space is used to make code easier to read
 ### **Variable Vinsmoke will you declare them?**
 + Before you can use a variable you need to announce that you want to use it
 + This involves creating the variable then giving it a name normally you say that you declare the variable   
-![variable-example](/Images/variable-examples.png)   
+![variable-example](../Images/variable-examples.png)   
 + Var in the above example is what a programmer calls a keyword the JS interpreter knows that this keyword is used to create a variable
 + Before you can use the variable you gotta name it sometimes called an identifier the variable in the above example is called quantity
 + if the variable name is more than one word it is usually written in camelCase
@@ -150,7 +150,7 @@ white space is used to make code easier to read
 ### **Variable Vinsmoke Assign them a Value**
 + Once a variable is created you can tell it what info you would like it to store. 
 + Normally you would say you assign a value to the variable   
-![variable-examples2](/Images/variable-examples2.png)  
+![variable-examples2](../Images/variable-examples2.png)  
 + Huzzah that variable is now usable by name
 + In the above example quantity that we created earlier is now set to 3
 + Variable's names should describe the kind of data that variable hold
@@ -171,8 +171,8 @@ white space is used to make code easier to read
 + Unlike some other programming languages, when declaring a variable in JavaScript, you do not need to specify what type of data it will hold
 
 ### **Variable Vinsmoke try to store a number**  
-![numberstore](/Images/store-a-number-example1.png)   
-![numberstore](/Images/store-a-number-example2.png)    
+![numberstore](../Images/store-a-number-example1.png)   
+![numberstore](../Images/store-a-number-example2.png)    
 + Here, three variables are created and values are assigned to them.  
 + price holds the price of an individual tile  
 + quantity holds the number of tiles a customer wants  
@@ -184,7 +184,7 @@ The first of these two lines finds the element whose id attribute has a value of
 + There are many ways to write content into a page, and several places you can place your script
 
 ### **Variable Vinsmoke try to store a string**  
-![storeastring](/Images/store-a-string-example.png)  
+![storeastring](../Images/store-a-string-example.png)  
 + Two variables are declared in the above example username & message and they and used for the above strings 'Molly' & 'See our upcoming range'
 + Note how the string is placed inside quote marks
 + The quotes can be single or double quotes, but they must match
@@ -192,7 +192,7 @@ The first of these two lines finds the element whose id attribute has a value of
 + Strings must always be written on one line
 
 ### **Variable Vinsmoke try to using quotes inside a string**
-![insdieastring](/Images/inside-a-string-example.png)   
+![insdieastring](../Images/inside-a-string-example.png)   
 + Sometimes you will want to use a double or single quote mark within a string
 + Because strings can live in single or double quotes, if you just want to use double quotes in the string, you could surround the entire string in single quotes
 + If you just want to use single quotes in the string, you could surround the string in double quotes (as shown in the third line of the above example)
@@ -200,14 +200,14 @@ The first of these two lines finds the element whose id attribute has a value of
 + The backwards slash tells the interpreter that the following character is part of the string, rather than the end of it.
 
 ### **Variable Vinsmoke try to store a boolean**
-![booleanexample](/Images/store-a-boolean-example.png)  
+![booleanexample](../Images/store-a-boolean-example.png)  
 + A Boolean variable can only have a value of true or fa1se
 + It is rare that you would want to write the words true or false into the page for the user to read, but this data type does have two very popular uses
 + Booleans are used when the value can only be true/ fa1se
 + Second, Booleans are used when your code can take more than one path. Remember, different code may run in different circumstances
 
 ### **Variable Vinsmoke time to learn some shorthand**
-![shorthand](/Images/shorthand-example.png)  
+![shorthand](../Images/shorthand-example.png)  
 + Variables are declared and values assigned in the same statement
 + Three variables are declared on the same line, then values assigned to each
 + Two variables are declared and assigned values on the same line. Then one is declared and assigned a value on the next line
@@ -215,7 +215,7 @@ The first of these two lines finds the element whose id attribute has a value of
 + Here, a variable is used to hold a reference to an element in the HTML page
 
 ### **Variable Vinsmoke change your Value**
-![changethevalue](/Images/changing-the-value-example.png)  
+![changethevalue](../Images/changing-the-value-example.png)  
 + Once you have assigned a value to a variable, you can then change what is stored in the variable later in the same script
 + Once the variable has been created, you do not need to use the var keyword to assign it a new value. You just use the variable name, the equals sign (al so known as t he assignment operator), and the new value for that attribute
 
@@ -268,17 +268,17 @@ Decisions:
 
 ### **Yonko JavaScript, The Marine Admiral Logical Operators appears**
 + Comparison operators usually return single values of true or false Logical operators allow you to compare the results of more than one comparison operator  
-![logical](Images/Logicaloperators-example.png)  
+![logical](../Images/Logicaloperators-example.png)  
 + in the above line of code 3 expressions are written
 + the left and the right both use comparison operators and both return false
 + The 3rd uses a logical operator different than a comparison operator
 + This logical AND operator checks to see whether both expressions on either side of it return true 
 + **&&**: Logical AND this operator tests more than one condition  
-![logicaland](Images/logical-and.png)  
-+**||**: Logical OR This operator tests at least one condition  
-![logicalor](Images/logical-or.png)  
+![logicaland](../Images/logical-and.png)  
++ **||**: Logical OR This operator tests at least one condition  
+![logicalor](../Images/logical-or.png)  
 **!**: Logical Not this operator takes a single boolean value and invert it  
-![logicalnot](Images/logical-not.png')  
+![logicalnot](../Images/logical-not.png))  
 + Logical expressions are evaluated left to right
 + if the first condition can provide enough information to get the answer then there is no need to evaluate the second condition
 ## **Key Takeaways**

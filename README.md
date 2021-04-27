@@ -21,7 +21,7 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
  
 ## [**Code 201 Reading Notes**](/201/201homepage.md)
   1. [Class 00](/201/class-01.md)
-  2. [Class 00](/201/class-02.md)
+  2. [Class 01](/201/class-02.md)
   3. Day 02
   4. Day 03
   5. Day 04
