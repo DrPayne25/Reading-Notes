@@ -14,14 +14,14 @@
 + **Selector**: indicates which element the rule applies to
 + **Declarations**: indicate how the elements refereed to in the selector should be styled 
 + Declarations have two parts a property and a value that are separated by a colon :  
-![Rules](./Images/Rules.png)
+![Rules](/Images/Rules.png)
 
-# **CSS Brace the Elements**
+## **CSS Brace the Elements**
 + CSS properties affect how elements are displayed 
 + CSS declarations sit inside curly brackets and have two parts a **property** and a **value** multiple properties can be specified in on declaration when separated by a semi colon :
 + **Properties**: indicate the aspects of the element you want to change
 + **Values** Specify the settings you want to use for that chosen properties  
-![elements](./Images/Elements.png)
+![elements](/Images/Elements.png)
 
 ## **External CSS**
 + **<link\>**: is the element uses in an html doc to tell the browsers where to find the CSS file used to style the page don't forget it is empty so it doesn't need a closing tag
@@ -29,7 +29,7 @@
 + **type**:: specifies the type of document being linked to normally a text/css
 + **rel**: specifies the relationship between the HTML page and the file it is linked to this should be a stylesheet when linking to a scss file
 + You can have more than one CSS style sheet you can do this by having a <link\> element for every css file  
-![external](./Images/External.png)
+![external](/Images/External.png)
 
 ## **Internal CSS**
 + **<style\>** is the tag to place an element in for an internal CSS 
@@ -38,13 +38,13 @@
 + If your building a site with more than one page you should use a external CSS style sheet
 + This will allow all the pages to use the same rules rather than having to duplicate them each time
 + Changing the one sheet will change all other linked pages  
-![internal](./Images/Internal.png)
+![internal](/Images/Internal.png)
 
 ## **CSS Selectors**
 + CSS selectors are case sensitive so they must match element names and attribute values exactly
 + More advanced selectors than the ones below will be taught as we go on  
-![css-selector1](./Images/selector-examples.png)  
-![css-selector2](./Images/selector-types.png)  
+![css-selector1](/Images/selector-examples.png)  
+![css-selector2](/Images/selector-types.png)  
 
 ## **I choose....CSS CASCADE**
 + If two selectors are identical the last rule will take precedence
@@ -72,7 +72,7 @@
 * Hex Codes: six digit codes that represent the amount of red green and blue preceded by a pound or hash
 * Color names: 147 predefined color names that are recognized
 * You can use * & * at the start and end in css to add a comment  
-![Color](./Images/color.png)
+![Color](/Images/color.png)
 
 ## **Color outside the lines**
 + background-color: is the code to change this value
@@ -81,11 +81,11 @@
 + if not background is listed it will be transparent 
 + must browsers have white as default but be careful to not assume and check that before you submit something
 + padding is used to separate the text from the edges of the box  
-![background-color](./Images/background-color.png)
+![background-color](/Images/background-color.png)
 
 ## **What is Color** 
 + Every color on a computer screen is created by mixing amounts of red, green, and blue  
-![color-what](./Images/color-what.png)
+![color-what](/Images/color-what.png)
 
 ## **Gotta Get the Contrast**
 + When Picking foreground and background colors it is important to 
@@ -100,7 +100,7 @@
 + The CSS3 rgba property allows you to specify a color, just like you would with an RGB value, but adds a fourth value to indicate opacity. This value is known as an alpha value and is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity). The rgba value will only affect the element on which it is applied (not child elements).
 + Because some browsers will not recognize RGBA colors, you can offer a fallback so that they display a solid color. If there are two rules that apply to the same element, the latter of the two will take priority  
 + To create the fallback, you can specify a color as a hex code, color name or RGB value, followed by the rule that specifies an RGBA value. If the browser understands RGBA colors it will use that rule. If it doesn't, it will use the RGB value  
-![opacity](./Images/opacity.png)  
+![opacity](/Images/opacity.png)  
 
 ## **HSL Colors**
 + CSS3 introduces an entirely new and intuitive way to specify colors using hue, saturation, and lightness values
@@ -114,10 +114,10 @@
 + Alpha: is expressed as a number between 0 and 1.0 0.5 represents 50% Transparency and a 0.75 represents 75%
 + Because older browsers do not recognize HSL and HSLA values, it is a good idea to add an extra rule which specifies the color using a hex code, RGB value, or color name. This should appear before the rule that uses the HSL or HSLA value
 + This means that if the browser understands HSL and HSLA colors, it will use that rule; and if it does not, it will use the first rule  
-![hsl-hsla](./Images/HSL-HSLA.png)  
+![hsl-hsla](/Images/HSL-HSLA.png)  
 
-![color-example](./Images/color-example.png)  
-![color-code](./Images/color-code.png)  
+![color-example](/Images/color-example.png)  
+![color-code](/Images/color-code.png)  
 
 # **Summary**
 + Color not only brings your site to life, but also helps convey the mood and evokes reactions.
