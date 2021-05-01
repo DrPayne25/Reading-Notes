@@ -25,8 +25,8 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 ### **Surf the 201 Class**  
   - [Homepage](./../README.md)
   1. [Class 00](/201/class-01.md)
-  2. Day 01
-  3. Day 02
+  2. [Class 01](/201/class-02.md)
+  3. [Class 02](/201/class-03.md)
   4. Day 03
   5. Day 04
   6. Day 05
