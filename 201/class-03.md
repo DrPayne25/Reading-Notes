@@ -2,16 +2,15 @@
 
 ## **Section Selector**:
   - [**Food For Thought**](#food-for-thought)
-  - Always use 'use strict' at the top of .js
   - [**Table of Contents**](#code-201-reading-notes)
   - [**Lists**](#lists)
-  - [**Boxes](#boxes)
+  - [**Boxes**](#boxes)
   - [**Decisions and Loops**](#decisions-and-loops)
 
 ---
 
 ## **Food For Thought**
-- Text
+-  Always use 'use strict' at the top of .js
 
 ---
 
