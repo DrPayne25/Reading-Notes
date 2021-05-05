@@ -9,7 +9,7 @@
 ---
 
 ## **Food For Thought**
-- Text
+- DRY - Don't Repeat Yourself
 
 ---
 
