@@ -11,6 +11,20 @@
 
 ## **Food For Thought**
 -  Always use 'use strict' at the top of .js
+-  An array is made up of elements
+-  An element is a thing inside an array each element has an index within that array. 
+-  Index starts at 0 and points to the place-in-order where the elements exists inside the array 
+-  console.log(myArray[2\]); would be said as console log myArray at 2
+-  Arrays have multiple different data types
+-  comma after each item in an array 
+-  .length can be used to count the items in an array 
+-  `` use this for the below way to write instead of ""
+-  ${\} This will used to put a js variable inside a string
+-  myArray[4\] = 'Alex' would add an item to the myArray array 
+-  myArray.push(\) Lets you add an item to an array 
+-  ` use the backtick to write 
+-  for (let i = 0; i < example.length; i++\) {\} get used to this counter 
+-  960 px is  a good estimate for width 
 
 ---
 
@@ -99,7 +113,7 @@ Every box has three available properties that can be adjusted to control its app
   1. [Class 00](/201/class-01.md)
   2. [Class 01](/201/class-02.md)
   3. [Class 02](/201/class-03.md)
-  4. Day 03
+  4. [Class 03](/201/class-04.md)
   5. Day 04
   6. Day 05
   7. Day 06

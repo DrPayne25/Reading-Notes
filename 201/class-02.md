@@ -288,8 +288,8 @@ Decisions:
 ## [**Code 201 Reading Notes**](/201/201homepage.md)
   1. [Class 00](/201/class-01.md)
   2. [Class 01](/201/class-02.md)
-  3. Day 02
-  4. Day 03
+  3. [Class 02](/201/class-03.md)
+  4. [Class 03](/201/class-04.md)
   5. Day 04
   6. Day 05
   7. Day 06
