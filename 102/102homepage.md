@@ -30,11 +30,11 @@ Customer Orientation - My current work role has brought the need for customer or
 
 Thanks for anyone that takes the time to give any feedback or help out with this new experience! Now without further ado lets dive into coding and create a doc that I a website I can refer back to with useful information!
 
-![outside](/Images/outsidelegotropper.jpg)
+![outside](../Images/outsidelegotropper.jpg)
 
 
 # **Table of Contents**
-- [**Homepage**](/README.md)
+- [**Homepage**](/102/102homepage.md)
 - [**Markdown**](/102/Markdown.md)  
 - [**Fun With Terminal**](/102/Terminal.md)
 - [**Git Who**](/102/Git.md)
