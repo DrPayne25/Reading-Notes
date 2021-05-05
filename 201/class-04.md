@@ -1,4 +1,4 @@
-# **Class 01 Developer Payne's First Adventure is nearing its end!**
+# **Class 01 Developer Payne's First Adventure is over time to party!**
 
 ## **Section Selector**:
   - [**Food For Thought**](#food-for-thought)
