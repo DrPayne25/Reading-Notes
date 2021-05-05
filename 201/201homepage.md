@@ -27,7 +27,7 @@ Thanks for anyone that takes the time to give any feedback or help out with this
   1. [Class 00](../class-01.md)
   2. [Class 01](../class-02.md)
   3. [Class 02](../class-03.md)
-  4. [Class 03](/class-04.md)
+  4. [Class 03](201/class-04.md)
   5. Day 04
   6. Day 05
   7. Day 06
