@@ -18,7 +18,7 @@ These have not changed since the 102 homepage so you can refer to [that](102home
 
 Thanks for anyone that takes the time to give any feedback or help out with this new experience! Now without further ado lets dive into coding and create a website I can refer back to with useful information!
 
-![outside](/Images/outsidelegotropper.jpg)  
+![outside](../Images/outsidelegotropper.jpg)  
 
 
 ## **Code 201**
