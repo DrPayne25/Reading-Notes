@@ -51,13 +51,13 @@ This is the [link](https://playhearthstone.com/en-us) to download just in case y
 - [ ] code
 
 ## **Surf The Website**
-- [**Homepage**](102homepage.md)    
-- [**Fun with Terminal**](Terminal.md)
-- [**Git Who**](Git.md)
-- [**HTML**](HTML.md)
-- [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**JavaScript pt 2**](yonkojavascript.md)
-- [**Computers??**](howcomputerwork.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Fun With Terminal**](../Terminal.md)
+- [**Git Who**](../Git.md)
+- [**HTML**](../HTML.md)
+- [**CSS**](../css.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

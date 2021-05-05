@@ -83,12 +83,13 @@ Function Name: sayHello(\);
 ![single](./Images/single-value.png)
 
 ## **Surf The Website**
-- [**Homepage**](102homepage.md)    
-- [**Fun with Terminal**](Terminal.md)
-- [**Git Who**](Git.md)
-- [**HTML**](HTML.md)
-- [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**Computers??**](howcomputerwork.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Fun With Terminal**](../Terminal.md)
+- [**Git Who**](../Git.md)
+- [**HTML**](../HTML.md)
+- [**CSS**](../css.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

@@ -33,12 +33,13 @@
 + Every input and output of a computer is a type of info that can be represented as a 1 or 0 
 
 # **Surf The Web**
-- [**Homepage**](102homepage.md)    
-- [**Fun With Terminal**](Terminal.md)
-- [**Git Who**](Git.md)
-- [**HTML**](HTML.md)
-- [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**JavaScript pt 2**](yonkojavascript.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Fun With Terminal**](../Terminal.md)
+- [**Git Who**](../Git.md)
+- [**HTML**](../HTML.md)
+- [**CSS**](../css.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

@@ -57,13 +57,13 @@ git push - will push back to your cloud reop
 Bunch more things to actually take away from this but I can go [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ## **Surf The Website**
-- [**Homepage**](102homepage.md)   
-- [**Markdown**](Markdown.md)
-- [**Fun with Terminal**](Terminal.md)
-- [**HTML**](HTML.md)
-- [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**JavaScript pt 2**](yonkojavascript.md)
-- [**Computers??**](howcomputerwork.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Fun With Terminal**](../Terminal.md)
+- [**HTML**](../HTML.md)
+- [**CSS**](../css.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

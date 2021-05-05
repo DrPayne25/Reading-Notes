@@ -130,13 +130,13 @@
 
 
 # **Surf the Website**
-- [**Homepage**](102homepage.md)  
-- [**Markdown**](Markdown.md)  
-- [**Fun With Terminal**](Terminal.md)
-- [**Git Who**](Git.md)
-- [**HTML**](HTML.md)
-- [**JavaScript**](javascript.md)
-- [**JavaScript pt 2**](yonkojavascript.md)
-- [**Computers??**](howcomputerwork.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Fun With Terminal**](../Terminal.md)
+- [**Git Who**](../Git.md)
+- [**HTML**](../HTML.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

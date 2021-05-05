@@ -180,13 +180,13 @@ Most folks don’t read an entire website they skim through for the information 
 ![SU4](https://user-images.githubusercontent.com/81712870/114151030-8d3b6980-98d1-11eb-9c95-3f2830244f4f.png)
 
 ## **Surf The Website**
-- [**Homepage**](102homepage.md)  
-- [**Markdown**](Markdown.md)
-- [**Fun with Terminal**](Terminal.md)
-- [**Git Who**](Git.md)
-- [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**JavaScript pt 2**](yonkojavascript.md)
-- [**Computers??**](howcomputerwork.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Fun With Terminal**](../Terminal.md)
+- [**Git Who**](../Git.md)
+- [**CSS**](../css.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

@@ -34,14 +34,14 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 
 
 # **Table of Contents**
-- [**Homepage**](/102/102homepage.md)
-- [**Markdown**](/102/Markdown.md)  
-- [**Fun With Terminal**](/102/Terminal.md)
-- [**Git Who**](/102/Git.md)
-- [**HTML**](/102/HTML.md)
-- [**CSS**](/102/css.md)
-- [**JavaScript**](/102/javascript.md)
-- [**JavaScript pt 2**](/102/yonkojavascript.md)
-- [**Computers??**](/102/howcomputerwork.md)
-- [**Fun with Loops**](/102/yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Fun With Terminal**](../Terminal.md)
+- [**Git Who**](../Git.md)
+- [**HTML**](../HTML.md)
+- [**CSS**](../css.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

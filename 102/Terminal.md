@@ -108,13 +108,13 @@ You can also use a backslash as an escape character so like cd User\ Pictures to
  **Double Space** - This will formate the line to the next direct line no code skip
 
 ## **Surf The Website**
-- [**Homepage**](102homepage.md)    
-- [**Markdown**](Markdown.md)
-- [**Git Who**](Git.md)
-- [**HTML**](HTML.md)
-- [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**JavaScript pt 2**](yonkojavascript.md)
-- [**Computers??**](howcomputerwork.md)
-- [**Fun with Loops**](yonkojavascript3.md)
+- [**Homepage**](../102homepage.md)
+- [**Markdown**](../Markdown.md)  
+- [**Git Who**](../Git.md)
+- [**HTML**](../HTML.md)
+- [**CSS**](../css.md)
+- [**JavaScript**](../javascript.md)
+- [**JavaScript pt 2**](../yonkojavascript.md)
+- [**Computers??**](../howcomputerwork.md)
+- [**Fun with Loops**](../yonkojavascript3.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
