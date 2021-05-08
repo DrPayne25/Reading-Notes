@@ -88,8 +88,7 @@
 ![color-what](/Images/color-what.png)
 
 ## **Gotta Get the Contrast**
-+ When Picking foreground and background colors it is important to 
-  ensure that there is enough contrast for the text to be legible
++ When Picking foreground and background colors it is important to ensure that there is enough contrast for the text to be legible
 + A lack of contrast is particularly a problem for those with visual impairments and color blindness
 + If you want people to read a lot of text on your page, however, then too much contrast can make it harder to read
 + For long spans of text, reducing the contrast a little bit improves readability
