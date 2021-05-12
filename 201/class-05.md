@@ -9,7 +9,20 @@
 ---
 
 ## **Food For Thought**
-- Text
+- example.pop(\): this will remove the LAST element in an array 
+- example.shift(\): removes the FIRST element from an array and reorders the index
+- example.push(\): adds to the END of the array
+- example.unshift(\): insert an element into the FRONT of the array
+- example.splice(index to start at, number of items to remove, what to add if anything\):
+  - example.splice(2, 1, 'Mar'\): would start at the 2 index position then remove one item and add in Mar
+- Git Branching
+  1. Repo must exist
+  2. Clone Reop
+  3. Create a new branch git checkout -b <branch name\>
+  4. ACP - git push origin <branch name\>
+  5. Merge
+  6. Merge
+  7. git pull origin main do this to synch back up 
 
 ---
 
