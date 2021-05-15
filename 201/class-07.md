@@ -25,11 +25,28 @@
 ---
 
 ## **Functions, Methods, and Objects**
+- JavaScript has five simple (or primitive) data types:
+  1. String
+  2. Number
+  3. Boolean
+  4.Undefined (a variable that has been declared, but
+  no value has been assigned to it yet)
+  5. Null (a variable with no value - it may have had
+  one at some point, but no longer has a value)
+- JavaScript also defines a complex data type:
+  1. Object 
+- An integer is a whole number(not a fraction).
+- A real number is a number that can contain a fractional part.
+- A floating point number is a real number that uses decimals to represent a fraction. The term floating point
+refers to the decimal point.
+- Scientific notation is a way of writing numbers that are too big or too small to be conveniently written in
+decimal form. For example: 3,750,000,000 can be represented as 3.75 x109 or 3.75e+12.
+
 
 
 ## **Key Takeaways**
 - Functions allow you to group a set of related statements together that represent a single task.
-- Functions can take parameters (informatiorJ required to do their job) and may return a value.
+- Functions can take parameters (information required to do their job) and may return a value.
 - An object is a series of variables and functions that represent something from the world around you.
 - In an object, variables are known as properties of the object; functions are known as methods of the object.
 - Web browsers implement objects that represent both the browser window and the document loaded into the browser window.
