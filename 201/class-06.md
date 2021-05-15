@@ -12,6 +12,9 @@
 - Text
 - lucky.playful = true would add the key playful and assign it a value true 
 - this.name = this would refer to the object when your inside of it vs outside of it 
+- DOM = Document object model 
+- Get a recording of the lesson for 5/11/21 at 8:12
+- 
 
 ---
 
