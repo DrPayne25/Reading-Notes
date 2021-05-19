@@ -9,7 +9,9 @@
 ---
 
 ## **Food For Thought**
-- Te-t
+- Instantiating a Student Object
+- this. refers to the object that will be created in a constructor function 
+- .prototype think of as inherit 
 
 ---
 

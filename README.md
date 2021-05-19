@@ -27,7 +27,7 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   5. [Class 04](/201/class-05.md)
   6. [Class 05](/201/class-06.md)
   7. [Class 06](/201/class-07.md)
-  8. Day 07
+  8. [Class 07](/201/class-08.md)
   9. Day 08
   10. Day 09
   11. Day 10
