@@ -10,7 +10,22 @@
 ---
 
 ## **Food For Thought**
-- Text
+Event Handling: 
+- Event: is Fired or Raised
+- Code : is Triggered
+- Event Types:
+  - Click
+  - Submit
+  - onChange
+  - hover
+Event Listener: is code that is going to be trigger when an event is fired 
+Bind: bind or tether an Event Listener to the event
+Event Handler: Code that runs in response to an event
+Asynchronous code: code that runs out of order
+Event Bubbling: We can listen to the larger element and hear when the smaller piece(s) are clicked 
+Event Capturing - its useful sometimes
+Event Bubbling - this is what we rely on often 
+callback function: function passes as an argument to another function/method
 
 ---
 
