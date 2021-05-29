@@ -24,7 +24,7 @@ Thanks for anyone that takes the time to give any feedback or help out with this
 ## **Code 201**
 ### **Surf the 201 Class**  
   - [Homepage](./../README.md)
-  1. [Class 00](./../class-01.md)
+  1. [Class 00](201/class-01.md)
   2. [Class 01](./../class-02.md)
   3. [Class 02](./../class-03.md)
   4. [Class 03](./../class-04.md)
