@@ -33,6 +33,6 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   11. [Class 10](/201/class-11.md)
   12. Day 11
   13. [Class 12](/201/class-13.md)
-  14. Day 13
+  14. [Class 13](/201/class-14.md)
   15. Day 14
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
