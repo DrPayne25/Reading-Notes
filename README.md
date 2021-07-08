@@ -35,4 +35,8 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   13. [Class 12](/201/class-13.md)
   14. [Class 13](/201/class-14.md)
   15. Day 14
+
+## [**Code 301 Reading Notes**](/)
+
+## [**Code 401 Reading Notes**](/)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
