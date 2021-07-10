@@ -2,7 +2,8 @@
 
 ## **Section Selector**:
   - [**Things I want to know more About**](#things-i-want-to-know-more-about)
-  - 
+  - [**Component Based Architecture**](#component-based-architecture)
+  - [**What is Props and How to Use it in React**](#what-is-props-and-how-to-use-it-in-react)
   - [**Table of Contents**](#code-301-reading-notes)
 
 ---
@@ -12,7 +13,7 @@
 - Real life context/example for this bit abstract right now. 
 
 ---
-**
+
 ## **Component Based Architecture**
 1. What is a component?
   + A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
