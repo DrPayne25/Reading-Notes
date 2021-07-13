@@ -32,6 +32,7 @@
 ## **Food for Thought**
 + Models any dependencies from left to right and inheritance from top (base class) to bottom (derived classes)
 + Experienced designers consider all (or most) of the alternative design solutions before settling on the final design model
++ a piece of the site such as a header.js or main.js
 
 
 
@@ -50,7 +51,8 @@
 + Props data is read only and should not be changed by child components
 + To Call a component the call must start with a Capital letter.
 + interpolation{/}
-+ 
++ props - let us pass data from parent to child its one directional 
++ child cannot change the props
 
 ---
 
