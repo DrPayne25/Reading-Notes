@@ -8,7 +8,7 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
 
 # **Table of Payne**
 
-## [**Code 102 Reading Notes**](/102/102homepage.md)
+## [**Code 102 - Intro to Software Development**](/102/102homepage.md)
   1. [**Markdown**](/102/Markdown.md)  
   2. [**Fun With Terminal**](/102/Terminal.md)
   3. [**Git Who**](/102/Git.md)
@@ -19,7 +19,7 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   8. [**Computers??**](/102/howcomputerwork.md)
   9. [**Fun with Loops**](/102/yonkojavascript3.md)  
  
-## [**Code 201 Reading Notes**](/201/201homepage.md)
+## [**Code 201 - Foundations of Software Development**](/201/201homepage.md)
   1. [Class 00](/201/class-01.md)
   2. [Class 01](/201/class-02.md)
   3. [Class 02](/201/class-03.md)
@@ -36,9 +36,9 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   14. [Class 13](/201/class-14.md)
   15. Day 14
 
-## [**Code 301 Reading Notes**](/)
+## [**Code 301 - Intermediate Software Development**](/)
   1. [Class 01](/301/class-01.md) 
   2. [Class 02](/301/class-02.md) 
 
-## [**Code 401 Reading Notes**](/)
+## [**Code 401 - Advanced Software Development**](/)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
