@@ -34,23 +34,34 @@
   + Using an array as arguments
   + Adding an item to a list
 - Give an example of using the spread operator to combine two arrays.
-  const Arr1 = ['1','2','3']
-  const Arr2 = ['4','5','6']
-  const Arr3 = [...Arr1,...Arr2]
-  console.log(...Arr3)
+  - const Arr1 = ['1','2','3']
+  - const Arr2 = ['4','5','6']
+  - const Arr3 = [...Arr1,...Arr2]
+  - console.log(...Arr3)
 - Give an example of using the spread operator to add a new item to an array.
-  const Arr4 = [...Arr3,'7']
-  console.log(...Arr4)
+  - const Arr4 = [...Arr3,'7']
+  - console.log(...Arr4)
 - Give an example of using the spread operator to combine two objects into one.
-  const object1 = {name: "Alex"}
-const object2 = {eyecolor: "Brown"}
-let object3 = {...object1, ...object2}
-console.log(object3);
+  - const object1 = {name: "Alex"}
+  - const object2 = {eyecolor: "Brown"}
+  - let object3 = {...object1, ...object2}
+  - console.log(object3);
 
 
 ## **Food for Thought**
 - adding State please go over a bit more
 - 
+
+---
+
+## **How to Pass Functions Between Components**
+- In the video, what is the first step that the developer does to pass functions between components? They start by creating an increment function 
+- In your own words, what does the increment function do? The increment function loops through people array and then looks at the name and if that matches the name it will then increase the count within that object by one
+- How can you pass a method from a parent component into a child component? You can do this by using props to pass the function down to the child component
+- How does the child component invoke a method that was passed to it from a parent component?- by using this.props 
+
+
+## **Food for Thought**
 
 
 ---
