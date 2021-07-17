@@ -38,7 +38,8 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
 
 ## [**Code 301 - Intermediate Software Development**](/)
   1. [Class 01](/301/class-01.md) 
-  2. [Class 02](/301/class-02.md) 
+  2. [Class 02](/301/class-02.md)
+  3. [Class 03](/301/class-03.md) 
 
 ## [**Code 401 - Advanced Software Development**](/)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
