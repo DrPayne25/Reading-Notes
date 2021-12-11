@@ -10,6 +10,18 @@
 ---
 
 ## **Things I want to know more about**
+- Poetry install will install all dependencies in your pyproject.toml
+- dunder = __
+- function in python require something inside aka can't be empty 
+- import is getting it from the environment 
+- pip3 install avoid using pip3 to install
+- poetry add can be done in the same way to do it in the virtual environment 
+- Things should be installed in the local environment 
+- write tests first so that you know the parameters that you are working with 
+- Test Driven Development might be a nice key for interviews 
+- Test required for the function 
+- poetry add pytest-watch ptw will start it 
+- 
 
 
 ---
