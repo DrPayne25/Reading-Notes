@@ -1,7 +1,12 @@
 ## [**Code 401 Reading Notes**](/401/401homepage.md)
   1. [Read 01]
+<<<<<<< HEAD
   2. [Read 02](/401/read-02.md)
   3. [Read 03](/401/read-03.md)
+=======
+  2. [Read 02](401/read-02.md)
+  3. Day 02
+>>>>>>> 877f4c27b4e1e5e133bb7c257c774dbaf6c7d3e8
   4. Day 03
   5. Day 04
   6. Day 05
