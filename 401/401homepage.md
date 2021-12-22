@@ -5,7 +5,7 @@
   4. [Read 04](/401/read-04.md)
   5. Day 04
   6. Day 05
-  7. Day 06
+  7. [Read 06](/401/read-06.md)
   8. Day 07
   9. Day 08
   10. Day 09
