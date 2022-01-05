@@ -47,4 +47,12 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   8. [Class 08](/301/class-08.md)
 
 ## [**Code 401 - Advanced Software Development**](/)
+  1. [Class 01](/401/read-01.md) 
+  2. [Class 02](/401/read-02.md)
+  3. [Class 03](/401/read-03.md) 
+  4. [Class 04](/401/read-04.md)
+  5. [Class 05](/401/read-05.md)
+  6. [Class 06](/401/read-06.md)
+  7. [Class 07](/401/read-07.md)
+  8. [Class 08](/401/read-08.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->

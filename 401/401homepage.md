@@ -6,8 +6,8 @@
   5. Day 04
   6. Day 05
   7. [Read 06](/401/read-06.md)
-  8. Day 07
-  9. Day 08
+  8. [Read 07](/401/read-07.md)
+  9. [Read 08](/401/read-08.md)
   10. Day 09
   11. Day 10
   12. Day 11
