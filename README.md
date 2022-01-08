@@ -55,4 +55,5 @@ Hi my name is Alex and i'm learning to code! I currently work over at OfferUp as
   6. [Class 06](/401/read-06.md)
   7. [Class 07](/401/read-07.md)
   8. [Class 08](/401/read-08.md)
+  9. [Class 09](/401/read-09.md)
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
