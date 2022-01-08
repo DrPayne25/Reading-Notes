@@ -15,6 +15,19 @@
 ---
 
 ## **Dunder Methods**
+- special methods are a set of predefined methods you can use to enrich your classes. They are easy to recognize because they start and end with double underscores
+- “dunder methods”, a short form of “double under"
+- Dunder methods let you emulate the behavior of built-in types.
+- This elegant design is known as the Python data model and lets developers tap into rich language features like sequences, iteration, operator overloading, attribute access, etc
+- Look at Python’s data model as a powerful API you can interface with by implementing one or more dunder methods
+- Object Initialization: __init__
+  - To construct account objects from the a class I need a constructor which in Python is the __init__ dunder
+  - The constructor takes care of setting up the object
+- Object Representation: __str__, __repr__
+  - __repr__: The “official” string representation of an object. This is how you would make an object of the class. The goal of __repr__ is to be unambiguous
+  - __str__: The “informal” or nicely printable string representation of an object. This is for the enduser
+- You can make an object callable like a regular function by adding the __call__ dunder method
+- context manager is a simple “protocol” (or interface) that your object needs to follow so it can be used with the with statement. Basically all you need to do is add __enter__ and __exit__ methods to an object if you want it to function as a context manager
 
 
 ## **Statistics - Probability**
