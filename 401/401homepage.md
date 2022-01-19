@@ -11,7 +11,7 @@
   10. Day 09
   11. Day 10
   12. Day 11
-  13. Day 12
+  13. [Read 12](/401/read-12.md)
   14. Day 13
   15. Day 14
 <!-- DrP E-Sign Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start -->
